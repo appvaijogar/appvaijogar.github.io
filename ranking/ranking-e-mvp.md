@@ -78,11 +78,11 @@ Em caso de empate no critério 1: se apenas **1** dos empatados pertence ao time
 ### Critério 3 — Menor média pessoal histórica
 Se ainda houver empate: vence quem tem a **menor média pessoal** no clube (média de todas as partidas anteriores). A ideia é premiar quem mais superou seu próprio desempenho habitual.
 
-### Critério 4 — Maior média do time adversário
-Se ainda houver empate: vence quem jogou contra o **time com maior média** na partida. Um bom desempenho contra um time mais forte vale mais.
+### Critério 4 — Maior nota recebida dos adversários
+Se ainda houver empate: vence quem recebeu a **maior soma de notas dadas pelos atletas do time adversário**. Reflete o reconhecimento direto de quem jogou contra.
 
-### Critério 5 — Maior média do próprio time
-Por último: vence quem pertence ao **time com maior média** na partida.
+### Critério 5 — Maior nota recebida dos companheiros
+Por último: vence quem recebeu a **maior soma de notas dadas pelos atletas do próprio time**. Reconhecimento de quem viu o desempenho de perto.
 
 {: .note }
 > Se após todos os critérios ainda houver empate absoluto, **nenhum MVP** é eleito para aquela partida.
