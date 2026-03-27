@@ -1,0 +1,41 @@
+title: "Vai Jogar — Guia do Administrador"
+description: "Tudo que você precisa saber para administrar seu clube no Vai Jogar."
+
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://appvaijogar.github.io"
+baseurl: ""
+
+color_scheme: dark
+
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 2
+  preview_words_before: 3
+  preview_words_after: 5
+
+nav_sort: order
+
+footer_content: "Vai Jogar &copy; 2025 &mdash; Organize suas partidas em segundos."
+
+callouts_level: quiet
+callouts:
+  note:
+    title: Nota
+    color: blue
+  tip:
+    title: Dica
+    color: green
+  warning:
+    title: Atenção
+    color: yellow
+  important:
+    title: Importante
+    color: red
+
+back_to_top: true
+back_to_top_text: "Voltar ao topo"
+
+plugins:
+  - jekyll-seo-tag
