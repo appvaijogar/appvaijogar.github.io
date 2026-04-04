@@ -66,9 +66,9 @@ O algoritmo tenta montar os times mais equilibrados possível. Ele considera:
 - **Goleiros:** cada time recebe exatamente 1 goleiro (quando há 2).
 - **Posições:** distribui jogadores defensivos e ofensivos de forma equilibrada entre os times.
 - **Histórico de parcerias:** evita repetir as mesmas duplas de jogadores sempre juntos.
-- **Média de notas:** minimiza a diferença de habilidade entre os times.
+- **Distribuição de habilidade:** usa *snake draft* — os jogadores são ordenados por nota e distribuídos no padrão A, B, B, A, A, B… para que o melhor de cada rodada vá para times opostos. A qualidade do sorteio é medida comparando as distribuições posição a posição (melhor × melhor, 2º × 2º, etc.), não apenas a média geral.
 
-O algoritmo roda 200 combinações e escolhe a mais equilibrada.
+O algoritmo gera 200 combinações e escolhe a mais equilibrada.
 
 ### Data da partida
 
